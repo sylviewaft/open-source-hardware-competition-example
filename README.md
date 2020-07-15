@@ -1,0 +1,1 @@
+# open-source-hardware-competition-example
